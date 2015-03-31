@@ -38,6 +38,7 @@ module.exports = function(grunt) {
 			themes: {
 				files: {
 					'css/theme/black.css': 'css/theme/source/black.scss',
+					'css/theme/myopress.css': 'css/theme/source/myopress.scss',
 					'css/theme/white.css': 'css/theme/source/white.scss',
 					'css/theme/league.css': 'css/theme/source/league.scss',
 					'css/theme/beige.css': 'css/theme/source/beige.scss',
