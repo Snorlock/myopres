@@ -70,6 +70,25 @@ section .love {
 	max-width: 200px !important;
 }
 
+.borderBox{
+	border: 5px solid red !important;
+  	height: 18px;
+}
+
+.eventStreamBox {
+	position: absolute;
+	top: 77px;
+	left: 69px;
+	width: 41%;
+}
+
+.bufferBox{
+	position: absolute;
+	top: 482px;
+	left: 90px;
+	width: 36%;
+}
+
 
 // Theme template ------------------------------
 @import "../template/theme";
